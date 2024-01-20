@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116967909332",
+    "project_id": "speechrecognitionapp-1d7f0",
+    "storage_bucket": "speechrecognitionapp-1d7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116967909332:android:d95695374944ad713c5841",
+        "android_client_info": {
+          "package_name": "com.example.speechrecognitionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GxTaBPeGijXpx7fAAR5K6IXBUZhPob8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
